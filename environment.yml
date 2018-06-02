@@ -9,17 +9,17 @@ dependencies:
   # bind tornado version (websocket problems)
   - tornado = 4.5
   # get dependencies for pgcontents
-  - certifi
-  - click
-  - cryptography 
-  - mako
-  - psycopg2
-  - six
-  - sqlalchemy
+ # - certifi
+ # - click
+ # - cryptography 
+ # - mako
+ # - psycopg2
+ # - six
+ # - sqlalchemy
   - numpy
   - pandas
   - scikit-learn
-  - nose
-  - pip:
-    - pgcontents
-    - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+ # - nose
+ # - pip:
+  #  - pgcontents
+   # - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
