@@ -26,4 +26,4 @@ dependencies:
   - pip:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
-    - pandas-datareader
+   # - pandas-datareader
