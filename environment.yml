@@ -17,7 +17,8 @@ dependencies:
   - six
   - sqlalchemy
   - numpy
-  -pandas
+  - pandas
+  - scikit-learn
   - nose
   - pip:
     - pgcontents
