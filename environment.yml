@@ -7,7 +7,7 @@ dependencies:
   # bind ipython version (compatibility to pgcontents)
   - ipython = 5
   # bind tornado version (websocket problems)
-  - tornado = 4.5
+ # - tornado = 4.5
   # get dependencies for pgcontents
  # - certifi
  # - click
@@ -26,4 +26,4 @@ dependencies:
   - pip:
    # - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
-    - pandas-datareader
+   # - pandas-datareader
