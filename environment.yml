@@ -16,8 +16,8 @@ dependencies:
  # - psycopg2
  # - six
  # - sqlalchemy
-  - numpy
-  - pandas
+ # - numpy
+ # - pandas
   - scikit-learn
  # - nose
  # - pip:
